@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Frederic Reinier, github page"
+title                    : "Frederic Reinier"
 title_separator          : "-"
 name                     : &name "Frederic"
 description              : &description "I am a reasearch scientist on NGS data analysis. I love to travel and read about science"
