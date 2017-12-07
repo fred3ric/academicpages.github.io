@@ -214,7 +214,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "_publications/publi.html"
+      path: "/publications/publi.html"
       #type: publications
     values:
       #layout: single
