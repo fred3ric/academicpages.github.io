@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Fred(3)ric "
   avatar           : "profile.png"
-  bio              : "Research Scientis, Cancer genomics, NGS Data analysis"
+  bio              : "Research Scientist, Cancer genomics, NGS Data analysis"
   location         : "Marseilles, FR"
   employer         :
   googlescholar    : "https://scholar.google.com/scholar?q=frederic+reinier&hl=en"
@@ -98,10 +98,10 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "fred_reinier"
