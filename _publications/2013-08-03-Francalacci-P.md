@@ -1,7 +1,7 @@
 ---
 title: "Low-pass DNA sequencing of 1200 Sardinians reconstructs European Y-chromosome phylogeny."
 collection: publications
-permalink: /publication/2013-08-03-Low-pass-DNA-sequencing-of-1200-Sardinians-reconstructs-European-Y-chromosome-phylogeny.
+permalink: /publication/2013-08-03-Francalacci-P-Low-pass-DNA-sequencing-of-1200-Sardinians-reconstructs-European-Y-chromosome-phylogeny.
 excerpt: '2013-08-03-Francalacci-P'
 date: 2013-08-03
 venue: 'Science.'

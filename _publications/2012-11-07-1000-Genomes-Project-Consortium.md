@@ -1,7 +1,7 @@
 ---
 title: " An integrated map of genetic variation from 1,092 human genomes.""
 collection: publications
-permalink: /publication/2012-11-07-An-integrated-map-of-genetic-variation-from-1,092-human-genomes."
+permalink: /publication/2012-11-07-1000-Genomes-Project-Consortium-An-integrated-map-of-genetic-variation-from-1,092-human-genomes."
 excerpt: '2012-11-07-1000-Genomes-Project-Consortium'
 date: 2012-11-07
 venue: 'Nature.'
