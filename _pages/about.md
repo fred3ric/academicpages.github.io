@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Frederic, a research scientist with strong experience in Next Generation Sequencing data and statistical analysis on cancer genomics.
+Hi, I am Frederic, a research scientist with experience in Next Generation Sequencing data and statistical analysis on cancer genomics.
