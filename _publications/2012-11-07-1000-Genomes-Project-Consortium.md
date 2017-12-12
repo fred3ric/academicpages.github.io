@@ -1,16 +1,16 @@
 ---
-title: " An integrated map of genetic variation from 1,092 human genomes.""
+title: "An integrated map of genetic variation from 1,092 human genomes"
 collection: publications
-permalink: /publication/2012-11-07-1000-Genomes-Project-Consortium-An-integrated-map-of-genetic-variation-from-1,092-human-genomes."
-excerpt: '2012-11-07-1000-Genomes-Project-Consortium'
+permalink: /publication/2012-11-07-1000-Genomes-Project-Consortium
+excerpt: 'By characterizing the geographic and functional spectrum of human genetic variation, the 1000 Genomes Project aims to build a resource to help to understand the genetic contribution to disease. Here we describe the genomes of 1,092 individuals from 14 populations, constructed using a combination of low-coverage whole-genome and exome sequencing. By developing methods to integrate information across several algorithms and diverse data sources, we provide a validated haplotype map of 38_million single nucleotide polymorphisms, 1.4_million short insertions and deletions, and more than 14,000 larger deletions. We show that individuals from different populations carry different profiles of rare and common variants, and that low-frequency variants show substantial geographic differentiation, which is further increased by the action of purifying selection. We show that evolutionary conservation and coding consequence are key determinants of the strength of purifying selection, that rare-variant load varies substantially across biological pathways, and that each individual contains hundreds of rare non-coding variants at conserved sites, such as motif-disrupting changes in transcription-factor-binding sites. This resource, which captures up to 98% of accessible single nucleotide polymorphisms at a frequency of 1% in related populations, enables analysis of common and low-frequency variants in individuals from diverse, including admixed, populations.'
 date: 2012-11-07
 venue: 'Nature.'
 paperurl: 'http://fred3ric.github.io/files/2012-11-07-1000-Genomes-Project-Consortium.pdf'
-citation: '1000 Genomes Project Consortium., Abecasis GR, Auton A, Brooks LD, DePristo MA, Durbin RM, Handsaker RE, Kang HM, Marth GT, McVean GA.'
+citation: '1000 Genomes Project Consortium., Abecasis GR, Auton A, Brooks LD, DePristo MA, Durbin RM, Handsaker RE, Kang HM, Marth GT, McVean GA'
 ---
 
 <a href='http://fred3ric.github.io/files/2012-11-07-1000-Genomes-Project-Consortium.pdf'>Download paper here</a>
 
-2012-11-07-1000-Genomes-Project-Consortium
+By characterizing the geographic and functional spectrum of human genetic variation, the 1000 Genomes Project aims to build a resource to help to understand the genetic contribution to disease. Here we describe the genomes of 1,092 individuals from 14 populations, constructed using a combination of low-coverage whole-genome and exome sequencing. By developing methods to integrate information across several algorithms and diverse data sources, we provide a validated haplotype map of 38_million single nucleotide polymorphisms, 1.4_million short insertions and deletions, and more than 14,000 larger deletions. We show that individuals from different populations carry different profiles of rare and common variants, and that low-frequency variants show substantial geographic differentiation, which is further increased by the action of purifying selection. We show that evolutionary conservation and coding consequence are key determinants of the strength of purifying selection, that rare-variant load varies substantially across biological pathways, and that each individual contains hundreds of rare non-coding variants at conserved sites, such as motif-disrupting changes in transcription-factor-binding sites. This resource, which captures up to 98% of accessible single nucleotide polymorphisms at a frequency of 1% in related populations, enables analysis of common and low-frequency variants in individuals from diverse, including admixed, populations.
 
-Recommended citation: 1000 Genomes Project Consortium., Abecasis GR, Auton A, Brooks LD, DePristo MA, Durbin RM, Handsaker RE, Kang HM, Marth GT, McVean GA.
+Recommended citation: 1000 Genomes Project Consortium., Abecasis GR, Auton A, Brooks LD, DePristo MA, Durbin RM, Handsaker RE, Kang HM, Marth GT, McVean GA
