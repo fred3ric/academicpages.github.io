@@ -6,7 +6,7 @@ excerpt: 'Genetic variation within the male-specific portion of the Y chromosome
 date: 2013-08-03
 venue: 'Science.'
 paperurl: 'http://fred3ric.github.io/files/2013-08-03-Francalacci-P.pdf'
-citation: 'Francalacci P, Morelli L, Angius A, Berutti R, Reinier F, Atzeni R, Pilu R, Busonero F, Maschio A, Zara I, Sanna D, Useli A, Urru MF, Marcelli M, Cusano R, Oppo M, Zoledziewska M, Pitzalis M, Deidda F, Porcu E, Poddie F, Kang HM, et al.'
+citation: 'Francalacci P, Morelli L, Angius A, Berutti R,<b> Reinier F</b>, Atzeni R, Pilu R, Busonero F, Maschio A, Zara I, Sanna D, Useli A, Urru MF, Marcelli M, Cusano R, Oppo M, Zoledziewska M, Pitzalis M, Deidda F, Porcu E, Poddie F, Kang HM, et al.'
 ---
 
 <a href='http://fred3ric.github.io/files/2013-08-03-Francalacci-P.pdf'>Download paper here</a>

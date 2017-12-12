@@ -6,7 +6,7 @@ excerpt: 'By characterizing the geographic and functional spectrum of human gene
 date: 2012-11-07
 venue: 'Nature.'
 paperurl: 'http://fred3ric.github.io/files/2012-11-07-1000-Genomes-Project-Consortium.pdf'
-citation: '1000 Genomes Project Consortium., Abecasis GR, Auton A, Brooks LD, DePristo MA, Durbin RM, Handsaker RE, Kang HM, Marth GT, McVean GA'
+citation: '<b>1000 Genomes Project Consortium.</b>, Abecasis GR, Auton A, Brooks LD, DePristo MA, Durbin RM, Handsaker RE, Kang HM, Marth GT, McVean GA'
 ---
 
 <a href='http://fred3ric.github.io/files/2012-11-07-1000-Genomes-Project-Consortium.pdf'>Download paper here</a>

@@ -6,7 +6,7 @@ excerpt: 'A major use of the 1000 Genomes Project (1000 GP) data is genotype imp
 date: 2015-02-06
 venue: 'Nat Commun.'
 paperurl: 'http://fred3ric.github.io/files/2015-02-06-Delaneau-O.pdf'
-citation: 'Delaneau O, Marchini J; 1000 Genomes Project Consortium.; 1000 Genomes Project Consortium'
+citation: 'Delaneau O, Marchini J; <b>1000 Genomes Project Consortium.</b>; 1000 Genomes Project Consortium'
 ---
 
 <a href='http://fred3ric.github.io/files/2015-02-06-Delaneau-O.pdf'>Download paper here</a>
