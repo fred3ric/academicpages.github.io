@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.Sc in Bioinformatics, University of Mediterranean Luminy, Marseilles, France, 2005
+* B.S. in Mathematics & Computer Science, University of Mediterranean Luminy, Marseilles, France, 2003
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2016 - December 2017: Engineer Bioinformatician
+  * INSERM UMR_S-1065, Centre Méditerranéen de Médecine Moléculaire, Nice, France.
+  * Single Cell RNAseq study on uveal melanoma: Identification of molecular pathways triggered by gene expression on heterogeneous cells in tumors.
+  * Bioinformatics analysis for projects in the network of Cancéropôle PACA.
+  * Strong interaction with scientists. Definition of analysis pipeline according to their requirements and objectives, principally on cancer genomics.
+  * Public data analysis (GEO, TCGA), meta-analysis pipeline in R.
+  * Supervisor: Bioinformatic Master Student, 6 months.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* January 2013 - March 2016: Research Scientist
+  * Genome Sciences, University of Washington, Seattle, USA.
+  * Member of the University of Washington Center for Mendelian Genomics Consortium (UW-CMG).
+  * Study of Mendelian diseases using WES and WGS data
+
+* January 2009 – December 2012: Engineer Bioinformatician
+  * CRS4, Cagliari, Italy.
+  * 1000 Sardinian Genomes, NGS data analysis.
+
+* May 2006 – January 2009: Engineer Bioinformatician
+  * CRS4, Cagliari, Italy.
+  * Development: Data warehouse and platform analysis of microarrays for Cancer specific study.
+  * Web development on Zope Platform.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Operating System: Linux, MacOS. Strong Experience on Linux administration
+* Programming Language: Perl, Python, C, R/Bioconductor.
+* Bioinformatics Applications:
+  * Samtools, Picard, GATK, BWA, Bowtie, MEME, Tophat, Cufflinks, DESeq, HTseq, Bedtools, CoNIFER, XHMM.
+* Pathways Analysis: GSEA, IPASkill 1
 
 Publications
 ======
@@ -42,18 +52,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
