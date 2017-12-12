@@ -1,0 +1,16 @@
+---
+title: "Population- and individual-specific regulatory variation in Sardinia."
+collection: publications
+permalink: /publication/2017-04-11-Population--and-individual-specific-regulatory-variation-in-Sardinia.
+excerpt: '2017-04-11-Pala-M'
+date: 2017-04-11
+venue: 'Nat Genet.'
+paperurl: 'http://fred3ric.github.io/files/2017-04-11-Pala-M.pdf'
+citation: 'Pala M, Zappala Z, Marongiu M, Li X, Davis JR, Cusano R, Crobu F, Kukurba KR, Gloudemans MJ, Reinier F, Berutti R, Piras MG, Mulas A, Zoledziewska M, Marongiu M, Sorokin EP, Hess GT, Smith KS, Busonero F, Maschio A, Steri M, Sidore C, et al.'
+---
+
+<a href='http://fred3ric.github.io/files/2017-04-11-Pala-M.pdf'>Download paper here</a>
+
+2017-04-11-Pala-M
+
+Recommended citation: Pala M, Zappala Z, Marongiu M, Li X, Davis JR, Cusano R, Crobu F, Kukurba KR, Gloudemans MJ, Reinier F, Berutti R, Piras MG, Mulas A, Zoledziewska M, Marongiu M, Sorokin EP, Hess GT, Smith KS, Busonero F, Maschio A, Steri M, Sidore C, et al.

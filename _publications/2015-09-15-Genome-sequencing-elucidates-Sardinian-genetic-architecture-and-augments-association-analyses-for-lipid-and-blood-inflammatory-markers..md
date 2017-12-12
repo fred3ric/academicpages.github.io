@@ -1,0 +1,12 @@
+---
+title: "Genome sequencing elucidates Sardinian genetic architecture and augments association analyses for lipid and blood inflammatory markers."
+collection: publications
+permalink: /publication/2015-09-15-Genome-sequencing-elucidates-Sardinian-genetic-architecture-and-augments-association-analyses-for-lipid-and-blood-inflammatory-markers.
+excerpt: '2015-09-15-Sidore-C'
+date: 2015-09-15
+venue: 'Nat Genet.'
+citation: 'Sidore C, Busonero F, Maschio A, Porcu E, Naitza S, Zoledziewska M, Mulas A, Pistis G, Steri M, Danjou F, Kwong A, Ortega Del Vecchyo VD, Chiang CWK, Bragg-Gresham J, Pitzalis M, Nagaraja R, Tarrier B, Brennan C, Uzzau S, Fuchsberger C, Atzeni R, Reinier F, et al.	2015-09-15-Sidore-C&quot; http://fred3ric.github.io/files/2015-09-15-Sidore-C.pdf'
+---
+2015-09-15-Sidore-C
+
+Recommended citation: Sidore C, Busonero F, Maschio A, Porcu E, Naitza S, Zoledziewska M, Mulas A, Pistis G, Steri M, Danjou F, Kwong A, Ortega Del Vecchyo VD, Chiang CWK, Bragg-Gresham J, Pitzalis M, Nagaraja R, Tarrier B, Brennan C, Uzzau S, Fuchsberger C, Atzeni R, Reinier F, et al.	2015-09-15-Sidore-C" http://fred3ric.github.io/files/2015-09-15-Sidore-C.pdf

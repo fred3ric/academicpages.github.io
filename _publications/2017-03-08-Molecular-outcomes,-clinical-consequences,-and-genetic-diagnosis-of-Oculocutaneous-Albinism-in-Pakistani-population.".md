@@ -1,0 +1,12 @@
+---
+title: "Molecular outcomes, clinical consequences, and genetic diagnosis of Oculocutaneous Albinism in Pakistani population.""
+collection: publications
+permalink: /publication/2017-03-08-Molecular-outcomes,-clinical-consequences,-and-genetic-diagnosis-of-Oculocutaneous-Albinism-in-Pakistani-population."
+excerpt: '2017-03-08-Shahza-M'
+date: 2017-03-08
+venue: 'Sci Rep.'
+citation: 'Shahzad M, Yousaf S, Waryah YM, Gul H, Kausar T, Tariq N, Mahmood U, Ali M, Khan MA, Waryah AM, Shaikh RS, Riazuddin S, Ahmed ZM; University of Washington Center for Mendelian Genomics (UW CMG) Consortium..'
+---
+2017-03-08-Shahza-M
+
+Recommended citation: Shahzad M, Yousaf S, Waryah YM, Gul H, Kausar T, Tariq N, Mahmood U, Ali M, Khan MA, Waryah AM, Shaikh RS, Riazuddin S, Ahmed ZM; University of Washington Center for Mendelian Genomics (UW CMG) Consortium..

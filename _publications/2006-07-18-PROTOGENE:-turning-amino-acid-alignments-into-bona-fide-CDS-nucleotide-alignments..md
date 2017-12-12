@@ -1,0 +1,16 @@
+---
+title: "PROTOGENE: turning amino acid alignments into bona fide CDS nucleotide alignments."
+collection: publications
+permalink: /publication/2006-07-18-PROTOGENE:-turning-amino-acid-alignments-into-bona-fide-CDS-nucleotide-alignments.
+excerpt: '2006-07-18-Moretti-S'
+date: 2006-07-18
+venue: 'Nucleic Acids Res.'
+paperurl: 'http://fred3ric.github.io/files/2006-07-18-Moretti-S.pdf'
+citation: 'Moretti S, Reinier F, Poirot O, Armougom F, Audic S, Keduas V, Notredame C.'
+---
+
+<a href='http://fred3ric.github.io/files/2006-07-18-Moretti-S.pdf'>Download paper here</a>
+
+2006-07-18-Moretti-S
+
+Recommended citation: Moretti S, Reinier F, Poirot O, Armougom F, Audic S, Keduas V, Notredame C.
