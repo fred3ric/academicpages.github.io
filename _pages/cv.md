@@ -44,11 +44,10 @@ Skills
 * Programming Language: Perl, Python, C, R/Bioconductor.
 * Bioinformatics Applications:
   * Samtools, Picard, GATK, BWA, Bowtie, MEME, Tophat, Cufflinks, DESeq, HTseq, Bedtools, CoNIFER, XHMM.
-* Pathways Analysis: GSEA, IPASkill 1
+* Pathways Analysis: GSEA, IPA.
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
