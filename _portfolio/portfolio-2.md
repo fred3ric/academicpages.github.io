@@ -1,6 +1,6 @@
 ---
 title: "The Oceanographic Museum of Monaco.."
-excerpt: "Biodiversity. <br/><img src='/images/IMG_5727.jpg'>"
+excerpt: "Biodiversity. <br/><img src='/images/IMG_5727.JPG'>"
 collection: portfolio
 ---
 
