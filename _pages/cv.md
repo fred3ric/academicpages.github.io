@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.Sc in Bioinformatics, University of Mediterranean Luminy, Marseilles, France, 2005
+* PostGraduate degree in Bioinformatics, University of Mediterranean Luminy, Marseilles, France, 2005
+* M.Sc in Computer Sciences, University of Mediterranean Luminy, Marseilles, France, 2004
 * B.S. in Mathematics & Computer Science, University of Mediterranean Luminy, Marseilles, France, 2003
 
 Work experience
