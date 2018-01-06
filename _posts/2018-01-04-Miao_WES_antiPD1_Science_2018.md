@@ -9,7 +9,7 @@ tags:
   - clear cell Renal Cell Carcinoma
 ---
 
-
+Interesting study where WES is used on metatastic ccRCC patients. Authors found LOF mutations in PBRM1 gene on CB samples. Patients whose tumors showed biallelic PBRM1 loss had significantly prolonged OS and PFS compared to patients without PBRM1 LOF.
 
 ![SCENIC paper](https://fred3ric.github.io/images/WES_cancer_antiPD1_Miao_2018.png)
 
