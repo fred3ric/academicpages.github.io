@@ -12,10 +12,10 @@ redirect_from:
 Main Work Interests:
 ======
 
-** Single-Cell RNA Sequencing data analysis on Uveal Melanoma. Working on Intra-tumoral cells heterogeneity to define new markers specific to Progression/Invasion and Metastatic signatures. A better understanding of this heterogeneity will lead to better diagnostics and treatments.
-** RNAseq analysis on DLBCL cohort. Identification of new markers to diagnose efficiently patients with response to monoclonal antibody treatment (Rituxan)+CHOP.
-** Exome-Wide Association Studies on germline mutations modulates response to anti-PD1 and anti-CTLA4 immunotherapy in melanoma patients.
-** Working on development of new tools for integrative analysis of DNA-seq, RNA-seq, Chip-Seq and Whole Exome Sequencing datasets in the context of cancer genomics.
+* Single-Cell RNA Sequencing data analysis on Uveal Melanoma. Working on Intra-tumoral cells heterogeneity to define new markers specific to Progression/Invasion and Metastatic signatures. A better understanding of this heterogeneity will lead to better diagnostics and treatments.
+* RNAseq analysis on DLBCL cohort. Identification of new markers to diagnose efficiently patients with response to monoclonal antibody treatment (Rituxan)+CHOP.
+* Exome-Wide Association Studies on germline mutations modulates response to anti-PD1 and anti-CTLA4 immunotherapy in melanoma patients.
+* Development of tools for integrative analysis of DNA-seq, RNA-seq, Chip-Seq and Whole-Exome Sequencing datasets in the context of cancer genomics.
 
 Education
 ======
