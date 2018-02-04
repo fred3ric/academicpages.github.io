@@ -9,7 +9,7 @@ tags:
 ---
 
 Authors report sequencing and assembly of a human genome with 99.88% accuracy and an NG50 of 6.4 Mb using unamplified DNA and nanopore reads followed by short-read consensus improvement...
-... we provide evidence that a portable, biological nanopore sequencer could be used to sequence, assemble, and provisionally analyze structural variants and detect epigenetic marks, in point-of-care human genomics applications in the future.
+they provide evidence that a portable, biological nanopore sequencer could be used to sequence, assemble, and provisionally analyze structural variants and detect epigenetic marks, in point-of-care human genomics applications in the future.
 
 ![MinION paper](https://fred3ric.github.io/images/Nanopore_Minion_2018.png)
 
