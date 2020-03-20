@@ -2,6 +2,9 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
+this is a comment in readme
+
+
 # Instructions
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
